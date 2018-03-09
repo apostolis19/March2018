@@ -1,4 +1,6 @@
-'''Sequence to sequence example in Keras (character-level).
+'''University of Macedonia | Thessaloniki | A. Karanikolos
+
+Sequence to sequence example in Keras (character-level).
 
 This script demonstrates how to implement a basic character-level
 sequence-to-sequence model. We apply it to translating
